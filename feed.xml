@@ -9,31 +9,31 @@
     <itunes:category text="Technology" />
     <itunes:category text="Society &amp; Culture" />
     <image>
-      <url>https://mkg0.github.io/direk_t/static/logo.jpg</url>
+      <url>https://mkg0.github.io/direk-t/static/logo.jpg</url>
       <title>Direk-t</title>
-      <link>https://mkg0.github.io/direk_t/</link>
+      <link>https://mkg0.github.io/direk-t/</link>
     </image>
     <itunes:owner>
       <itunes:name>Mehmet Morcay</itunes:name>
       <itunes:email>mehmetmorcay@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:keywords>Turkish, critical thinking, technology, society</itunes:keywords>
-    <itunes:new-feed-url>https://mkg0.github.io/direk_t/feed.xml</itunes:new-feed-url>
+    <itunes:new-feed-url>https://mkg0.github.io/direk-t/feed.xml</itunes:new-feed-url>
     <copyright>© Copyright is for losers</copyright>
     <description>
       Hickimseye bir takim diyalektik dusunceler.
     </description>
-    <googleplay:image href="https://mkg0.github.io/direk_t/static/logo.jpg" />
+    <googleplay:image href="https://mkg0.github.io/direk-t/static/logo.jpg" />
     <language>tr</language>
     <itunes:explicit>no</itunes:explicit>
-    <link>https://mkg0.github.io/direk_t/feed.xml</link>
-    <itunes:image href="https://mkg0.github.io/direk_t/static/logo.jpg" />
+    <link>https://mkg0.github.io/direk-t/feed.xml</link>
+    <itunes:image href="https://mkg0.github.io/direk-t/static/logo.jpg" />
     <item>
       <author>Mehmet Morcay, Hasan Cem Safa Ece, Oyıl Varol</author>
       <itunes:author>Mehmet Morcay, Hasan Cem Safa Ece, Oyıl Varol</itunes:author>
       <title>Yabancı Dil ve Kültürel Hegemonya</title>
       <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://mkg0.github.io/direk_t/eps/01-yabanci-dil-ve-kulturel-hegemonya.mp3" type="audio/mpeg" length="89100425" />
+      <enclosure url="https://mkg0.github.io/direk-t/eps/01-yabanci-dil-ve-kulturel-hegemonya.mp3" type="audio/mpeg" length="89100425" />
       <itunes:duration>1:42:35</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
