@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Direk-t</title>
+    <googleplay:author>Mehmet Morcay, Hasan Cem Safa Ece, Oyıl Varol</googleplay:author>
+    <author>Mehmet Morcay, Hasan Cem Safa Ece, Oyıl Varol</author>
+    <itunes:author>Mehmet Morcay, Hasan Cem Safa Ece, Oyıl Varol</itunes:author>
+    <itunes:email>mehmetmorcay@gmail.com</itunes:email>
+    <itunes:category text="Technology" />
+    <itunes:category text="Society &amp; Culture" />
+    <image>
+      <url>https://mkg0.github.io/direk_t/static/logo.jpg</url>
+      <title>Direk-t</title>
+      <link>https://mkg0.github.io/direk_t/</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>Mehmet Morcay</itunes:name>
+      <itunes:email>mehmetmorcay@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:keywords>Turkish, critical thinking, technology, society</itunes:keywords>
+    <itunes:new-feed-url>https://mkg0.github.io/direk_t/feed.xml</itunes:new-feed-url>
+    <copyright>© Copyright is for losers</copyright>
+    <description>
+      Hickimseye bir takim diyalektik dusunceler.
+    </description>
+    <googleplay:image href="https://mkg0.github.io/direk_t/static/logo.jpg" />
+    <language>tr</language>
+    <itunes:explicit>no</itunes:explicit>
+    <link>https://mkg0.github.io/direk_t/feed.xml</link>
+    <itunes:image href="https://mkg0.github.io/direk_t/static/logo.jpg" />
+    <item>
+      <author>Mehmet Morcay, Hasan Cem Safa Ece, Oyıl Varol</author>
+      <itunes:author>Mehmet Morcay, Hasan Cem Safa Ece, Oyıl Varol</itunes:author>
+      <title>Yabancı Dil ve Kültürel Hegemonya</title>
+      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
+      <enclosure url="https://mkg0.github.io/direk_t/eps/01-yabanci-dil-ve-kulturel-hegemonya.mp3" type="audio/mpeg" length="89100425" />
+      <itunes:duration>1:42:35</itunes:duration>
+      <guid isPermaLink="false">cepod01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>Ozensiz ilk bolumumuz.</description>
+    </item>
+  </channel>
+</rss>
