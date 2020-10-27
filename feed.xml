@@ -2,12 +2,17 @@
 <rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Direk-t</title>
-    <googleplay:author>Mehmet Morcay, Hasan Cem Safa Ece, Oyıl Varol</googleplay:author>
-    <author>Mehmet Morcay, Hasan Cem Safa Ece, Oyıl Varol</author>
-    <itunes:author>Mehmet Morcay, Hasan Cem Safa Ece, Oyıl Varol</itunes:author>
+    <googleplay:author>Mkg, Zaib Atsu, Yardo</googleplay:author>
+    <author>Mkg, Zaib Atsu, Yardo</author>
+    <itunes:author>Mkg, Zaib Atsu, Yardo</itunes:author>
     <itunes:email>mehmetmorcay@gmail.com</itunes:email>
     <itunes:category text="Technology" />
     <itunes:category text="Society &amp; Culture" />
+    <itunes:category text="Other"/>
+    <itunes:keywords>Turkish, critical thinking, technology, society</itunes:keywords>
+    <itunes:new-feed-url>https://mkg0.github.io/direk-t/feed.xml</itunes:new-feed-url>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://mkg0.github.io/direk-t/static/logo.jpg" />
     <image>
       <url>https://mkg0.github.io/direk-t/static/logo.jpg</url>
       <title>Direk-t</title>
@@ -17,27 +22,34 @@
       <itunes:name>Mehmet Morcay</itunes:name>
       <itunes:email>mehmetmorcay@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:keywords>Turkish, critical thinking, technology, society</itunes:keywords>
-    <itunes:new-feed-url>https://mkg0.github.io/direk-t/feed.xml</itunes:new-feed-url>
     <copyright>© Copyright is for losers</copyright>
     <description>
-      Hickimseye bir takim diyalektik dusunceler.
+      Hiç-kimseye hitaben bir takım diyalektik düşünceler. Podcastle ilgili reklam ve işbirliği fikirlerinizi kendinize saklayın. Kişisel değerlerinize hakaret etmişsek bu muhtemelen hakaret değildir; siz öyle algılamışsınızdır. Değerleriniz bir klitoristen daha hassas.
     </description>
     <googleplay:image href="https://mkg0.github.io/direk-t/static/logo.jpg" />
     <language>tr</language>
-    <itunes:explicit>no</itunes:explicit>
-    <link>https://mkg0.github.io/direk-t/feed.xml</link>
-    <itunes:image href="https://mkg0.github.io/direk-t/static/logo.jpg" />
+    <link>https://mkg0.github.io/direk-t</link>
     <item>
-      <author>Mehmet Morcay, Hasan Cem Safa Ece, Oyıl Varol</author>
-      <itunes:author>Mehmet Morcay, Hasan Cem Safa Ece, Oyıl Varol</itunes:author>
+      <author>Mkg, Zaib Atsu, Yardo</author>
+      <itunes:author>Mkg, Zaib Atsu, Yardo</itunes:author>
       <title>Yabancı Dil ve Kültürel Hegemonya</title>
-      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
+      <pubDate>Wed, 20 Oct 2020 13:00:00 GMT</pubDate>
       <enclosure url="https://mkg0.github.io/direk-t/eps/01-yabanci-dil-ve-kulturel-hegemonya.mp3" type="audio/mpeg" length="89100425" />
       <itunes:duration>1:42:35</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
-      <description>Ozensiz ilk bolumumuz.</description>
+      <description>Ozensiz ilk bolum. </description>
+    </item>
+    <item>
+      <author>Mkg, Zaib Atsu, Yardo</author>
+      <itunes:author>Mkg, Zaib Atsu, Yardo</itunes:author>
+      <title>Lunaparklar ve sanat</title>
+      <pubDate>Tue, 27 Oct 2020 23:00:00 GMT</pubDate>
+      <enclosure url="https://mkg0.github.io/direk-t/eps/02-lunaparklar-ve-sanat.mp3" type="audio/mpeg" length="43647365" />
+      <itunes:duration>54:28</itunes:duration>
+      <guid isPermaLink="false">cepod02</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>Sanat üzerine dişe dokunmayan yalan yanlış diyaloglar. Bu bölümde; lunaparklar mı bir sanat eseridir yoksa Bilal Erdoğan mı? Wattpad’te yazılanlar kitaplaştırılırsa kitaptan sayılır mı? Sanatın sanat olduğuna kim karar veriyor? Light Novelları hangi tür çapsızlar okur? Hepsinin cevabı ve daha fazlası bu bölümde. Favori podcast platformunuzdan ısrarla isteyin.</description>
     </item>
   </channel>
 </rss>
