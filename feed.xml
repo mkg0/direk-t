@@ -51,5 +51,16 @@
       <itunes:explicit>no</itunes:explicit>
       <description>Sanat üzerine dişe dokunmayan yalan yanlış diyaloglar. Bu bölümde; lunaparklar mı bir sanat eseridir yoksa Bilal Erdoğan mı? Wattpad’te yazılanlar kitaplaştırılırsa kitaptan sayılır mı? Sanatın sanat olduğuna kim karar veriyor? Light Novelları hangi tür çapsızlar okur? Hepsinin cevabı ve daha fazlası bu bölümde. Favori podcast platformunuzdan ısrarla isteyin.</description>
     </item>
+    <item>
+      <author>Mkg, Zaib Atsu, Yardo</author>
+      <itunes:author>Mkg, Zaib Atsu, Yardo</itunes:author>
+      <title>Spor motivasyonu ve data</title>
+      <pubDate>Tue, 18 Nov 2020 12:00:00 GMT</pubDate>
+      <enclosure url="https://mkg0.github.io/direk-t/eps/03-spor-motivasyonu-ve-data.mp3" type="audio/mpeg" length="32991417" />
+      <itunes:duration>40:09</itunes:duration>
+      <guid isPermaLink="false">cepod03</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>Düz adamların data ile imtihanı!</description>
+    </item>
   </channel>
 </rss>
