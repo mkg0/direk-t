@@ -7,8 +7,10 @@
     <itunes:author>Mkg, Zaib Atsu, Yardo</itunes:author>
     <itunes:email>mehmetmorcay@gmail.com</itunes:email>
     <itunes:category text="Technology" />
-    <itunes:category text="Society &amp; Culture" />
-    <itunes:category text="Other"/>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Relationships" />
+      <itunes:category text="Philosophy" />
+    </itunes:category>
     <itunes:keywords>Turkish, critical thinking, technology, society</itunes:keywords>
     <itunes:new-feed-url>https://mkg0.github.io/direk-t/feed.xml</itunes:new-feed-url>
     <itunes:explicit>no</itunes:explicit>
@@ -24,7 +26,7 @@
     </itunes:owner>
     <copyright>© Copyright is for losers</copyright>
     <description>
-      Hiç-kimseye hitaben bir takım diyalektik düşünceler. Podcastle ilgili reklam ve işbirliği fikirlerinizi kendinize saklayın. Kişisel değerlerinize hakaret etmişsek bu muhtemelen hakaret değildir; siz öyle algılamışsınızdır. Değerleriniz bir klitoristen daha hassas.
+      Hiç-kimseye hitaben bir takım diyalektik düşünceler. Konuşmaktan keyif aldığımız konular üzerine dinleyici kaygısı olmadan spontane muhabbet ediyoruz. İçerikte yanlış bilgiler gecebilir, teyid ediniz. Podcastle ilgili reklam ve işbirliği fikirlerinizi kendinize saklayın. Kişisel değerlerinize hakaret etmişsek bu muhtemelen hakaret değildir; siz öyle algılamışsınızdır. Neyi doğru anladınız ki zaten.
     </description>
     <googleplay:image href="https://mkg0.github.io/direk-t/static/logo.jpg" />
     <language>tr</language>
@@ -61,6 +63,17 @@
       <guid isPermaLink="false">cepod03</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>Düz adamların data ile imtihanı!</description>
+    </item>
+    <item>
+      <author>Mkg, Zaib Atsu, Yardo</author>
+      <itunes:author>Mkg, Zaib Atsu, Yardo</itunes:author>
+      <title>Youtube kanalları ve değişen medya</title>
+      <pubDate>Tue, 1 Dec 2020 12:00:00 GMT</pubDate>
+      <enclosure url="https://mkg0.github.io/direk-t/eps/04-youtube-kanallari-ve-degisen-medya.mp3" type="audio/mpeg" length="60241613" />
+      <itunes:duration>1:08:50</itunes:duration>
+      <guid isPermaLink="false">cepod04</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>Bu bölümde; türkçe youtube içerikleri, içerik üretme motivasyonu, Flu TV, tarım vlog, Youtube’un dibi, Türkiye toplumunun değişen kendini ifade ediş biçimi, marketingin topluma etkisi, Every Frame a Painting, Let's Tape It, Hydraulic Press Channel, 李子柒 Liziqi, Nevşin Mengü youtube kanalı, my mechanics, bir arkadasın izlediği kanallar, Youglish.com,  ASMR(autonomous sensory meridian response) videoları, Youtube’un medyayı ve kitleyle iletişimi değiştirmesi, Taylan Yıldız, BaBaLa TV, Caner Özyurtlu, Loş Sohbet, Youtube Ünlüleri ve popülizm, İlber Ortaylı, internet etiği gibi konuları konuştuk.</description>
     </item>
   </channel>
 </rss>
