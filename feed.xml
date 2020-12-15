@@ -86,5 +86,16 @@
       <itunes:explicit>no</itunes:explicit>
       <description>Bu bölümde turizm ve otelcilik konusunu konuştuk. mkg ve zaib konunun cahilleri olarak sorular sordu, yardıranadam sektörün içinden biri olarak cevapladı. Turizm otelciliğin kapsamı, içki kültürü, "iyi eğitim alan son nesil", martini nasıl istenir, otellerde yıldız sistemi, butik oteller, her şey dahilcilik, otel turizmi vs şehir turizmi, ülkenin durumu ve ülkeyi satmak gerekliliği üzerine ahkam kesildi.</description>
     </item>
+    <item>
+      <author>Mkg, Zaib Atsu, Yardo</author>
+      <itunes:author>Mkg, Zaib Atsu, Yardo</itunes:author>
+      <title>Ülkenin prestiji ve turizmsel dangalaklıklar</title>
+      <pubDate>Tue, 15 Dec 2020 12:00:01 GMT</pubDate>
+      <enclosure url="https://mkg0.github.io/direk-t/eps/06-ulkenin-prestiji-ve-turizmsel-dangalaklıklar.mp3" type="audio/mpeg" length="53201868" />
+      <itunes:duration>42:57</itunes:duration>
+      <guid isPermaLink="false">cepod06</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>Alman mühendisliği bir imaj çalışmasının ürünü mü? Mesir macunu üzerine oyunlar mı oynanıyor? Yerel değerler markalaşamıyor mu? Hepsine evet cevabı verilen bu bölümde türkiyede kurumsal kimliksizlik ve tek ampülcülük, şehirlerarası yollardaki işgüzar kasaba belediyeleri, standardizasyonun önemi ve kurumsal sürdürülübilirlikten bahsedildi.</description>
+    </item>
   </channel>
 </rss>
