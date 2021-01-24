@@ -97,5 +97,16 @@
       <itunes:explicit>no</itunes:explicit>
       <description>Alman mühendisliği bir imaj çalışmasının ürünü mü? Mesir macunu üzerine oyunlar mı oynanıyor? Yerel değerler markalaşamıyor mu? Hepsine evet cevabı verilen bu bölümde türkiyede kurumsal kimliksizlik ve tek ampülcülük, şehirlerarası yollardaki işgüzar kasaba belediyeleri, standardizasyonun önemi ve kurumsal sürdürülübilirlikten bahsedildi.</description>
     </item>
+    <item>
+      <author>Mkg, Zaib Atsu, Yardo</author>
+      <itunes:author>Mkg, Zaib Atsu, Yardo</itunes:author>
+      <title>Programlamaya nereden baslanır?</title>
+      <pubDate>Fri, 22 Jan 2021 12:00:01 GMT</pubDate>
+      <enclosure url="https://mkg0.github.io/direk-t/eps/07-programlamaya-nereden-baslanir.mp3" type="audio/mpeg" length="79360046" />
+      <itunes:duration>1:41:56</itunes:duration>
+      <guid isPermaLink="false">cepod07</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>Yazılım sektörüne nasıl girilir? Neden girilir? Önce ingilizce mi öğrenilmeli? Herkes girmeli mi? Çalışma şartları nasıl? Gelecekte nolur? Yazılım diğer iş gruplarına nasıl etki eder? Yazılımcılar kendilerini işsiz bırakacak bir yazılım yapacaklar mı? Yazılımcılar solcu mu? Düzeltmeler: CRM degil CMS!</description>
+    </item>
   </channel>
 </rss>
